@@ -1,0 +1,13 @@
+PUT /crimesdb
+{
+  "mappings": {
+    "properties": {
+      "OFNS_DESC":       { "type": "text" },  
+      "KY_CD":           { "type": "integer" }, 
+      "CRM_ATPT_CPTD_CD":{ "type": "text"  },
+      "email":           { "type": "keyword"  }, 
+      "PD_DESC":         { "type": "text"  },
+      "location"       : {"type": "geo_point"}     
+    }
+  }
+}

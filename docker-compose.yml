@@ -1,0 +1,10 @@
+elk:
+  image: sebp/elk
+  ports:
+    - "5601:5601"
+    - "9200:9200"
+    - "5044:5044"
+
+  volumes:
+    - ~/pipeline/:/usr/share/logstash/pipeline/ 
+    - ~/settings/:/usr/share/logstash/config/
