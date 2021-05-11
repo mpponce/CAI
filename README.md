@@ -1,7 +1,7 @@
 # CAI
 Captura y Almacenamiento de Información 2021
 
-Por el peso no se pudo agregar el dateset NYPD_Complaint_Data_Historic.csv
+Por el peso no se pudo agregar el dataset NYPD_Complaint_Data_Historic.csv
 
 Bajarlo de:
 https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
