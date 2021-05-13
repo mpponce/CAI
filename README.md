@@ -11,3 +11,5 @@ Mediante la opción Export-->CSV
 Renombrarlo a "nypd_crimes.csv" y modificar su ubicación en el archivo de configuración de Logstash "crimes.elastic.logstash.conf" de ser necesario.
 
 También subimos un archivo con menos registros como demostración "nypd_tail.csv"
+
+El informe de nuestro trabajo e investigación sobre el stack ELK se encuentra en el archivo "Trabajo final CAI Stack ELK"
